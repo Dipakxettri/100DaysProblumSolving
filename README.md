@@ -4,7 +4,7 @@ This repo contains my progress of solving 6 problums daily for a 100 Days!
 ## list of problums solved :
 
 ### Day-001 
-1.Hello Word
+`1.Hello Word`
 2.Sum
 3.if esle
 4.loops and lopps with array
