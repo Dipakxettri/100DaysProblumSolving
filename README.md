@@ -27,4 +27,20 @@ This repo contains my progress of solving 6 problums daily for a 100 Days!
 5. 2D Array Sum  
 6. 2D Matrix Sum
 
+### Day-004 - Array, OPPS
+1. FInding Deterinant   
+2. 1D array update  
+3. 2D array update  
+4. OPPS  
+5. Search in range -Array  
+6. Rock Paper Seariors Game  
+
+### Day-005 - OPPS, String, Numbers
+1. Constrocters  
+2. Constrocters with Interface  
+3. Even or Odd check  
+4. Inharitence
+5. Prime Number Check
+6. String Revise
+
 
