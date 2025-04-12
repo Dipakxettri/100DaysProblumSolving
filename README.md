@@ -43,4 +43,12 @@ This repo contains my progress of solving 6 problums daily for a 100 Days!
 5. Prime Number Check
 6. String Revise
 
+### Day-006 - OPPS
+1. Animal Class  
+2. Banking System  
+3. Abstract Animal  
+4. Calculator  
+5. Overriding  
+6. Mobille Interfaces
+
 
