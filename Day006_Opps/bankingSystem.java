@@ -20,7 +20,7 @@ class BankSystem {
             balance = balance - value;
         }
         else{
-            System.out.println("cant able to withdraw due to unsuffecient oment");
+            System.out.println("cant able to withdraw due to unsuffecient amount");
         }
     }
 
